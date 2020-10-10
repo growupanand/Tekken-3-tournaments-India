@@ -11,6 +11,11 @@ app = Flask(__name__)
 def index():
     return render_template('index.html', data=data)
 
+@app.route('/about')
+def about():
+    return render_template('about.html')
+
+
 @app.route('/view_match/<match_name>')
 def view_match(match_name):
     match = []
