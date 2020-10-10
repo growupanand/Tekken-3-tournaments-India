@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row justify-content-md-center">
+
+
+    {% for match in data %}
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="row">
+
+                    <img class="col img-fluid"
+                         src="{{url_for('static', filename ='images/'+match['match_name']+'/main.jpg')}}"
+                         alt="Card image cap">
+
+                <div class="col">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h5>{{match['match_name']}}</h5>
+                        </div>
+                        <p class="card-text">
+                            <small class="text-muted">{{match['match_date']}}</small>
+                        </p>
+                        <p class="card-text">
+                            <a href="/view_match/{{match['match_name']}}" class="btn btn-secondary btn-block">VIEW</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div><br/>
+    </div>
+    {% endfor %}
+
+</div>
+
+{% endblock %}

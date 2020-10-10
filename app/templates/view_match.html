@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<a href="/">BACK</a>
+<h2>{{match['match_name']}} <small class="text-muted">{{match['match_date']}}</small></h2>
+
+
+<div class="row">
+    {% for team in match['teams']%}
+    <div class=" col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>{{team['team_name']}} <span class="font-weight-bold text-success">{{team['team_title']}}</span></h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                {% for member in team['team_members'] %}
+                <li class="list-group-item">
+                    {{member['name']}} <span class="font-weight-bold text-success">{{member['title']}}</span>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <br/>
+    </div>
+    {% endfor %}
+</div>
+<br/>
+
+
+<div class="row">
+
+    {% for image in match['images'] %}
+    <div class="col-lg-4">
+        <img class="img-thumbnail" src="{{image}}">
+    </div>
+    {% endfor %}
+
+</div>
+<br/>
+
+{% endblock %}
