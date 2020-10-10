@@ -2,10 +2,26 @@
 
 {% block content %}
 <div class="row justify-content-md-center">
-
-
-    {% for match in data %}
+<div class="col-lg-4">
+    <div class="card">
+        <div class="card-header">UPCOMING EVENTS</div>
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">
+                <h6>Tekken 3 Stars Cup</h6>
+                <p>Location: Ludhiana</p>
+            </li>
+            <li class="list-group-item">
+                <h6>Tekken 3 Legacy Diamond Cup</h6>
+                <p>Location: Kanpur<br/>
+                Teams: Jammu and Kashmir vs Kanpur
+                </p>
+            </li>
+        </ul>
+    </div><br/>
+</div>
     <div class="col-lg-8">
+    {% for match in data %}
+
         <div class="card">
             <div class="row">
 
@@ -28,9 +44,9 @@
                 </div>
             </div>
         </div><br/>
-    </div>
-    {% endfor %}
 
+    {% endfor %}
+    </div>
 </div>
 
 {% endblock %}
