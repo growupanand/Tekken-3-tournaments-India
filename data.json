@@ -11,7 +11,8 @@
             "title": "winner"
           },
           {
-            "name": "Akshay Thakur"
+            "name": "Akshay Thakur",
+            "title": "Runner up"
           }
         ]
       }
@@ -126,7 +127,7 @@
       {"team_name": "Moradabad",
       "team_title": "Winner",
       "team_members": [
-        {"name": "Mohammad Faizan","title": "Man of the match"},
+        {"name": "Mohammad Faizan","title": "Man of the match, Best Moradabad player & All rounder"},
         {"name": "Gaurav Jha honey","title": "runner up"}
       ]},
       {"team_name": "Others",
@@ -174,10 +175,10 @@
     "teams": [
       {"team_name": "Participants",
       "team_members": [
-        {"name": "Mohammad Afshan","title": "Winner"},
+        {"name": "Mohammad Afshan","title": "Winner, Great All rounder"},
         {"name": "Mohammad Chand","title": "Runner up"},
         {"name": "Rahul Kumar","title": "Highest perfects"},
-        {"name": "Mohammad Talha"},
+        {"name": "Mohammad Talha","title": "oshimitsu Genuis, Tekken 3 Legend"},
         {"name": "Mohammad bashar"},
         {"name": "Chetan fa sukla"},
         {"name": "Amin khwaja"},
@@ -200,7 +201,7 @@
     {"team_name": "Moradabad",
     "team_title": "Winner",
     "team_members": [
-      {"name": "Koshal","title": "Man of the match"}
+      {"name": "Koshal","title": "Man of the match, Game Changer, Amazing player ✨ Greatest Turn over in Tekken 3 History"}
     ]}
   ]},
 
@@ -210,7 +211,7 @@
     {"team_name": "Participants",
     "team_members": [
       {"name": "Koshal"},
-      {"name": "Akash","title": "Winner"}
+      {"name": "Akash","title": "Winner, Paul Master & most Amazing player"}
     ]}
   ]},
 
@@ -222,6 +223,14 @@
       {"name": "Sahil"},
       {"name": "Babu"},
       {"name": "Raftar"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3  Eddy Gordo Cup",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Nishu kushwah", "title": "Winner, Eddy Greatest"}
     ]}
   ]},
 
@@ -240,7 +249,7 @@
     "team_members": [
       {"name": "Sonu","title": "Winner"},
       {"name": "Akash soni","title": "Runner up"},
-      {"name": "Sanjay chopada"}
+      {"name": "Sanjay chopada","title": "Amazing performance, Ludhiana best player"}
     ]}
   ]},
 
