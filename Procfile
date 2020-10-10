@@ -1,1 +1,1 @@
-web: gunicorn Biradari:app
+web: gunicorn app:app
