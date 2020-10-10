@@ -163,7 +163,7 @@
       ]},
       {"team_name": "Tirupati",
       "team_members": [
-        {"name": "Gopi Krishna"}
+        {"name": "Gopi Krishna","title": "Runner up"}
       ]}
     ]
   },
@@ -222,6 +222,93 @@
       {"name": "Sahil"},
       {"name": "Babu"},
       {"name": "Raftar"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3  Noida Tournament",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Mohammad Faizan","title": "Winner"},
+      {"name": "Akash Soni","title": "Runner up"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3  Agra Tournament",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Sonu","title": "Winner"},
+      {"name": "Akash soni","title": "Runner up"},
+      {"name": "Sanjay chopada"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3 Taj Mahal Cup",
+  "teams": [
+    {"team_name":"Participants",
+    "team_members": [
+      {"name": "Amit Saxena","title": "Winner"},
+      {"name": "Kashif Ansari","title": "Runner up"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3 Black Taj Mahal Paul phenix cup",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Amit Saxena","title": "Winner"},
+      {"name": "Aman Agarwal","title": "Runner up"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3 Qutub minar cup",
+    "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Lokesh","title":"Winner"}
+      ]}
+    ]},
+
+  {"match_name": "Tekken 3  Lions legends Cup",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Aman Agarwal","title": "Winner"},
+      {"name": "Mohammad Anis","title": "Runner up"},
+      {"name": "Abhishek Saxena","title": "Best Paul Player"},
+      {"name": "Amit Saxena","title": "Best Paul Player"},
+      {"name": "Raja ramit bhola"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken Tag 1  Lockdown freedom Cup",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Bhanu Pratap Singh","title": "Winner"},
+      {"name": "Momento","title": "Runner up"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3  Go Corona Virus Cup",
+  "teams": [
+    {"team_name": "Bareilly",
+    "team_title": "Winner",
+    "team_members": [
+      {"name": "Aman Agarwal","title": "Man of the Match"}
+    ]},
+    {"team_name": "Rae Bareilly",
+    "team_members": [
+      {"name": "Tanvir Khan","title": "Runner up"}
+    ]}
+  ]},
+
+  {"match_name": "Tekken 3 Covid 20 Cup",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Quadans"}
     ]}
   ]}
 
