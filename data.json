@@ -128,7 +128,8 @@
       "team_title": "Winner",
       "team_members": [
         {"name": "Mohammad Faizan","title": "Man of the match, Best Moradabad player & All rounder"},
-        {"name": "Gaurav Jha honey","title": "runner up"}
+        {"name": "Gaurav Jha honey","title": "runner up"},
+        {"name": "Ravi Moradabad","title": "Highest perfects"}
       ]},
       {"team_name": "Others",
       "team_members": [
@@ -137,7 +138,6 @@
         {"name": "Narpendra Prakash"},
         {"name": "Gopi Krishna"},
         {"name": "Ankit bhati"},
-        {"name": "Ravi Moradabad"},
         {"name": "Akram khan"}
 
       ]}
@@ -178,7 +178,7 @@
         {"name": "Mohammad Afshan","title": "Winner, Great All rounder"},
         {"name": "Mohammad Chand","title": "Runner up"},
         {"name": "Rahul Kumar","title": "Highest perfects"},
-        {"name": "Mohammad Talha","title": "oshimitsu Genuis, Tekken 3 Legend"},
+        {"name": "Mohammad Talha","title": "Yoshimitsu Genuis, Tekken 3 Legend"},
         {"name": "Mohammad bashar"},
         {"name": "Chetan fa sukla"},
         {"name": "Amin khwaja"},
@@ -257,8 +257,9 @@
   "teams": [
     {"team_name":"Participants",
     "team_members": [
-      {"name": "Amit Saxena","title": "Winner"},
-      {"name": "Kashif Ansari","title": "Runner up"}
+      {"name": "Amit Saxena","title": "Winner, Highest perfects"},
+      {"name": "Kashif Ansari","title": "Runner up"},
+      {"name": "Prayank Sharma","title": "Fastest K.O"}
     ]}
   ]},
 
@@ -283,7 +284,7 @@
   "teams": [
     {"team_name": "Participants",
     "team_members": [
-      {"name": "Aman Agarwal","title": "Winner"},
+      {"name": "Aman Agarwal","title": "Winner, Highest perfects"},
       {"name": "Mohammad Anis","title": "Runner up"},
       {"name": "Abhishek Saxena","title": "Best Paul Player"},
       {"name": "Amit Saxena","title": "Best Paul Player"},
@@ -296,7 +297,7 @@
     {"team_name": "Participants",
     "team_members": [
       {"name": "Bhanu Pratap Singh","title": "Winner"},
-      {"name": "Momento","title": "Runner up"}
+      {"name": "Babu","title": "Runner up"}
     ]}
   ]},
 
