@@ -111,10 +111,10 @@
   "teams": [
     {"team_name": "Lucknow","team_title": "winner",
     "team_members": [
-      {"name": "Mohammad Talha"}
+      {"name": "Mohammad Talha","title": "Man of the Match"}
     ]},
     {"team_name": "Moradabad",
-    "team_members": [{"name": "Gopi Krishna"}]},
+    "team_members": [{"name": "Gopi Krishna","title": "Runner up"}]},
     {"team_name": "Tirupati"}
   ]
 },
@@ -124,10 +124,10 @@
     "match_date": "2018",
     "teams": [
       {"team_name": "Moradabad",
-      "team_title": "winner",
+      "team_title": "Winner",
       "team_members": [
         {"name": "Mohammad Faizan","title": "Man of the match"},
-        {"name": "Gaurav Jha honey"}
+        {"name": "Gaurav Jha honey","title": "runner up"}
       ]},
       {"team_name": "Others",
       "team_members": [
@@ -148,8 +148,8 @@
     "teams": [
       {"team_name": "Moradabad",
       "team_members": [
-        {"name": "Ravi","title": "winner"},
-        {"name": "Faizan"}
+        {"name": "Ravi","title": "Winner"},
+        {"name": "Faizan","title": "runner up"}
       ]}
     ]
   },
@@ -159,7 +159,7 @@
     "teams": [
       {"team_name": "Moradabad",
       "team_members": [
-        {"name": "Ravi","title": "winner"}
+        {"name": "Ravi","title": "Winner"}
       ]},
       {"team_name": "Tirupati",
       "team_members": [
@@ -169,12 +169,12 @@
   },
 
   {
-    "match_name": "Tekken 3 Winer Cup",
+    "match_name": "Tekken 3 Winter Cup",
     "match_date": "23/Feb/2019",
     "teams": [
       {"team_name": "Participants",
       "team_members": [
-        {"name": "Mohammad Afshan","title": "winner"},
+        {"name": "Mohammad Afshan","title": "Winner"},
         {"name": "Mohammad Chand","title": "Runner up"},
         {"name": "Rahul Kumar","title": "Highest perfects"},
         {"name": "Mohammad Talha"},
@@ -198,7 +198,7 @@
   "teams": [
     {"team_name": "Lucknow"},
     {"team_name": "Moradabad",
-    "team_title": "winner",
+    "team_title": "Winner",
     "team_members": [
       {"name": "Koshal","title": "Man of the match"}
     ]}
@@ -210,7 +210,7 @@
     {"team_name": "Participants",
     "team_members": [
       {"name": "Koshal"},
-      {"name": "Akash","title": "winner"}
+      {"name": "Akash","title": "Winner"}
     ]}
   ]},
 
