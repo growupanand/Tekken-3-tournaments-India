@@ -60,8 +60,6 @@
       }
     ]
   },
-
-
   {
     "match_name": "Tekken 3  Bareilly vs Shahjahanpur battle",
     "teams": [
@@ -85,261 +83,494 @@
       }
     ]
   },
-
-
   {
     "match_name": "Tekken 3  Sangam Vihar Vs Noida",
     "teams": [
       {
         "team_name": "Sangam Vihar",
         "team_members": [
-          {"name": "Satyam"}
+          {
+            "name": "Satyam"
+          }
         ]
       },
       {
         "team_name": "Noida",
         "team_title": "winner",
         "team_members": [
-          {"name": "Gaurav Jha honey","title": "Man of the match"}
+          {
+            "name": "Gaurav Jha honey",
+            "title": "Man of the match"
+          }
         ]
       }
     ]
   },
-
-
-{
-  "match_name": "Tekken 3  Lucknow & Moradabad Vs Tirupati",
-  "teams": [
-    {"team_name": "Lucknow","team_title": "winner",
-    "team_members": [
-      {"name": "Mohammad Talha","title": "Man of the Match"}
-    ]},
-    {"team_name": "Moradabad",
-    "team_members": [{"name": "Gopi Krishna","title": "Runner up, Nina Greatest"}]},
-    {"team_name": "Tirupati"}
-  ]
-},
-
+  {
+    "match_name": "Tekken 3  Lucknow & Moradabad Vs Tirupati",
+    "teams": [
+      {
+        "team_name": "Lucknow",
+        "team_title": "winner",
+        "team_members": [
+          {
+            "name": "Mohammad Talha",
+            "title": "Man of the Match"
+          }
+        ]
+      },
+      {
+        "team_name": "Moradabad",
+        "team_members": [
+          {
+            "name": "Gopi Krishna",
+            "title": "Runner up, Nina Greatest"
+          }
+        ]
+      },
+      {
+        "team_name": "Tirupati"
+      }
+    ]
+  },
   {
     "match_name": "Tekken 3  Delhi Cup 2018",
     "match_date": "2018",
     "teams": [
-      {"team_name": "Moradabad",
-      "team_title": "Winner",
-      "team_members": [
-        {"name": "Mohammad Faizan","title": "Man of the match, Best Moradabad player & All rounder"},
-        {"name": "Gaurav Jha honey","title": "runner up"},
-        {"name": "Ravi Moradabad","title": "Highest perfects"}
-      ]},
-      {"team_name": "Others",
-      "team_members": [
-
-        {"name": "Faizan Delhi"},
-        {"name": "Narpendra Prakash"},
-        {"name": "Gopi Krishna"},
-        {"name": "Ankit bhati"},
-        {"name": "Akram khan"}
-
-      ]}
+      {
+        "team_name": "Moradabad",
+        "team_title": "Winner",
+        "team_members": [
+          {
+            "name": "Mohammad Faizan",
+            "title": "Man of the match, Best Moradabad player & All rounder"
+          },
+          {
+            "name": "Gaurav Jha honey",
+            "title": "runner up"
+          },
+          {
+            "name": "Ravi Moradabad",
+            "title": "Highest perfects"
+          }
+        ]
+      },
+      {
+        "team_name": "Others",
+        "team_members": [
+          {
+            "name": "Faizan Delhi"
+          },
+          {
+            "name": "Narpendra Prakash"
+          },
+          {
+            "name": "Gopi Krishna"
+          },
+          {
+            "name": "Ankit bhati"
+          },
+          {
+            "name": "Akram khan"
+          }
+        ]
+      }
     ]
   },
-
   {
     "match_name": "Tekken 3 T shirt Tournament",
     "teams": [
-      {"team_name": "Moradabad",
-      "team_members": [
-        {"name": "Ravi","title": "Winner"},
-        {"name": "Faizan","title": "runner up"}
-      ]}
+      {
+        "team_name": "Moradabad",
+        "team_members": [
+          {
+            "name": "Ravi",
+            "title": "Winner"
+          },
+          {
+            "name": "Faizan",
+            "title": "runner up"
+          }
+        ]
+      }
     ]
   },
-
   {
     "match_name": "Tekken 3 ball mode tournament",
     "teams": [
-      {"team_name": "Moradabad",
-      "team_members": [
-        {"name": "Ravi","title": "Winner"}
-      ]},
-      {"team_name": "Tirupati",
-      "team_members": [
-        {"name": "Gopi Krishna","title": "Runner up, Ball mode Best player, real Winner"}
-      ]}
+      {
+        "team_name": "Moradabad",
+        "team_members": [
+          {
+            "name": "Ravi",
+            "title": "Winner"
+          }
+        ]
+      },
+      {
+        "team_name": "Tirupati",
+        "team_members": [
+          {
+            "name": "Gopi Krishna",
+            "title": "Runner up, Ball mode Best player, real Winner"
+          }
+        ]
+      }
     ]
   },
-
   {
     "match_name": "Tekken 3 Winter Cup",
     "match_date": "23/Feb/2019",
     "teams": [
-      {"team_name": "Participants",
-      "team_members": [
-        {"name": "Mohammad Afshan","title": "Winner, Great All rounder"},
-        {"name": "Mohammad Chand","title": "Runner up"},
-        {"name": "Rahul Kumar","title": "Highest perfects"},
-        {"name": "Mohammad Talha","title": "Yoshimitsu Genuis, Tekken 3 Legend"},
-        {"name": "Mohammad bashar"},
-        {"name": "Chetan fa sukla"},
-        {"name": "Amin khwaja"},
-        {"name": "Akash Soni"},
-        {"name": "Bhauwa"},
-        {"name": "Sachin"},
-        {"name": "Gopi Krishna"},
-        {"name": "Nassem Afridi"},
-        {"name": "Shanbaz"},
-        {"name": "Samad"},
-        {"name": "Narpendra Prakash"},
-        {"name": "Gaurav Jha honey"}
-      ]}
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Mohammad Afshan",
+            "title": "Winner, Great All rounder"
+          },
+          {
+            "name": "Mohammad Chand",
+            "title": "Runner up"
+          },
+          {
+            "name": "Rahul Kumar",
+            "title": "Highest perfects"
+          },
+          {
+            "name": "Mohammad Talha",
+            "title": "Yoshimitsu Genuis, Tekken 3 Legend"
+          },
+          {
+            "name": "Mohammad bashar"
+          },
+          {
+            "name": "Chetan fa sukla"
+          },
+          {
+            "name": "Amin khwaja"
+          },
+          {
+            "name": "Akash Soni"
+          },
+          {
+            "name": "Bhauwa"
+          },
+          {
+            "name": "Sachin"
+          },
+          {
+            "name": "Gopi Krishna"
+          },
+          {
+            "name": "Nassem Afridi"
+          },
+          {
+            "name": "Shanbaz"
+          },
+          {
+            "name": "Samad"
+          },
+          {
+            "name": "Narpendra Prakash"
+          },
+          {
+            "name": "Gaurav Jha honey"
+          }
+        ]
+      }
     ]
   },
-
-  {"match_name": "Tekken 3 Lucknow vs Moradabad",
-  "teams": [
-    {"team_name": "Lucknow"},
-    {"team_name": "Moradabad",
-    "team_title": "Winner",
-    "team_members": [
-      {"name": "Koshal","title": "Man of the match, Game Changer, Amazing player ✨ Greatest Turn over in Tekken 3 History"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3  Koshal Moradabad Vs Akash Kanpur",
-  "match_location": "kanpur",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Koshal"},
-      {"name": "Akash","title": "Winner, Paul Master & most Amazing player"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken Tag 1 Muzaffarnagar Vs Delhi",
-  "teams": [
-    {"team_name": "Delhi",
-    "team_members": [
-      {"name": "Nishu kushwah","title": "Man of the match"},
-      {"name": "Sahil"},
-      {"name": "Babu"},
-      {"name": "Raftar"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3  Eddy Gordo Cup",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Nishu kushwah", "title": "Winner, Eddy Greatest"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3  Noida Tournament",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Mohammad Faizan","title": "Winner"},
-      {"name": "Akash Soni","title": "Runner up"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3  Agra Tournament",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Sonu","title": "Winner"},
-      {"name": "Akash soni","title": "Runner up"},
-      {"name": "Sanjay chopada","title": "Amazing performance, Ludhiana best player"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Taj Mahal Cup",
-  "teams": [
-    {"team_name":"Participants",
-    "team_members": [
-      {"name": "Amit Saxena","title": "Winner, Highest perfects"},
-      {"name": "Kashif Ansari","title": "Runner up"},
-      {"name": "Prayank Sharma","title": "Fastest K.O"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Black Taj Mahal Paul phenix cup",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Amit Saxena","title": "Winner"},
-      {"name": "Aman Agarwal","title": "Runner up"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Qutub minar cup",
+  {
+    "match_name": "Tekken 3 Lucknow vs Moradabad",
     "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Lokesh","title":"Winner"}
-      ]}
-    ]},
-
-  {"match_name": "Tekken 3  Lions legends Cup",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Aman Agarwal","title": "Winner, Highest perfects"},
-      {"name": "Mohammad Anis","title": "Runner up"},
-      {"name": "Abhishek Saxena","title": "Best Paul Player"},
-      {"name": "Amit Saxena","title": "Best Paul Player"},
-      {"name": "Raja ramit bhola"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken Tag 1  Lockdown freedom Cup",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Bhanu Pratap Singh","title": "Winner"},
-      {"name": "Babu","title": "Runner up"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3  Go Corona Virus Cup",
-  "teams": [
-    {"team_name": "Bareilly",
-    "team_title": "Winner",
-    "team_members": [
-      {"name": "Aman Agarwal","title": "Man of the Match"}
-    ]},
-    {"team_name": "Rae Bareilly",
-    "team_members": [
-      {"name": "Tanvir Khan","title": "Runner up"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Covid 20 Cup",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Quadans"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Documentary",
+      {
+        "team_name": "Lucknow"
+      },
+      {
+        "team_name": "Moradabad",
+        "team_title": "Winner",
+        "team_members": [
+          {
+            "name": "Koshal",
+            "title": "Man of the match, Game Changer, Amazing player ✨ Greatest Turn over in Tekken 3 History"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Koshal Moradabad Vs Akash Kanpur",
+    "match_location": "kanpur",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Koshal"
+          },
+          {
+            "name": "Akash",
+            "title": "Winner, Paul Master & most Amazing player"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken Tag 1 Muzaffarnagar Vs Delhi",
+    "teams": [
+      {
+        "team_name": "Delhi",
+        "team_members": [
+          {
+            "name": "Nishu kushwah",
+            "title": "Man of the match"
+          },
+          {
+            "name": "Sahil"
+          },
+          {
+            "name": "Babu"
+          },
+          {
+            "name": "Raftar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Eddy Gordo Cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Nishu kushwah",
+            "title": "Winner, Eddy Greatest"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Noida Tournament",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Mohammad Faizan",
+            "title": "Winner"
+          },
+          {
+            "name": "Akash Soni",
+            "title": "Runner up"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Agra Tournament",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Sonu",
+            "title": "Winner"
+          },
+          {
+            "name": "Akash soni",
+            "title": "Runner up"
+          },
+          {
+            "name": "Sanjay chopada",
+            "title": "Amazing performance, Ludhiana best player"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Taj Mahal Cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Amit Saxena",
+            "title": "Winner, Highest perfects"
+          },
+          {
+            "name": "Kashif Ansari",
+            "title": "Runner up"
+          },
+          {
+            "name": "Prayank Sharma",
+            "title": "Fastest K.O"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Black Taj Mahal Paul phenix cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Amit Saxena",
+            "title": "Winner"
+          },
+          {
+            "name": "Aman Agarwal",
+            "title": "Runner up"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Qutub minar cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Lokesh",
+            "title": "Winner"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Lions legends Cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Aman Agarwal",
+            "title": "Winner, Highest perfects"
+          },
+          {
+            "name": "Mohammad Anis",
+            "title": "Runner up"
+          },
+          {
+            "name": "Abhishek Saxena",
+            "title": "Best Paul Player"
+          },
+          {
+            "name": "Amit Saxena",
+            "title": "Best Paul Player"
+          },
+          {
+            "name": "Raja ramit bhola"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken Tag 1  Lockdown freedom Cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Bhanu Pratap Singh",
+            "title": "Winner"
+          },
+          {
+            "name": "Babu",
+            "title": "Runner up"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3  Go Corona Virus Cup",
+    "teams": [
+      {
+        "team_name": "Bareilly",
+        "team_title": "Winner",
+        "team_members": [
+          {
+            "name": "Aman Agarwal",
+            "title": "Man of the Match"
+          }
+        ]
+      },
+      {
+        "team_name": "Rae Bareilly",
+        "team_members": [
+          {
+            "name": "Tanvir Khan",
+            "title": "Runner up"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Covid 20 Cup",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Quadans"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Documentary",
     "match_location": "Ludhiana Punjab India & Chocolate Tourney",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Sanjay Chopra", "title": "Winner"},
-      {"name": "Raj", "title": "Runner Up"}
-      {"name": "PAWAN", "title": "Best Host"}
-    ]}
-  ]},
-
-  {"match_name": "Tekken 3 Stars Cup Howrang Masters Battled",
-  "teams": [
-    {"team_name": "Participants",
-    "team_members": [
-      {"name": "Quadans", "title": "Winner"},
-      {"name": "Aryan", "title": "Runner Up"}
-    ]}
-  ]}
-
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Sanjay Chopra",
+            "title": "Winner"
+          },
+          {
+            "name": "Raj",
+            "title": "Runner Up"
+          },
+          {
+            "name": "PAWAN",
+            "title": "Best Host"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "match_name": "Tekken 3 Stars Cup Howrang Masters Battled",
+    "teams": [
+      {
+        "team_name": "Participants",
+        "team_members": [
+          {
+            "name": "Quadans",
+            "title": "Winner"
+          },
+          {
+            "name": "Aryan",
+            "title": "Runner Up"
+          }
+        ]
+      }
+    ]
+  }
 ]
