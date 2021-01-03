@@ -320,6 +320,15 @@
     "team_members": [
       {"name": "Quadans"}
     ]}
+  ]},
+
+  {"match_name": "Tekken 3 Stars Cup Howrang Masters Battled",
+  "teams": [
+    {"team_name": "Participants",
+    "team_members": [
+      {"name": "Quadans", "title": "Winner"},
+      {"name": "Aryan", "title": "Runner Up"}
+    ]}
   ]}
 
 ]
