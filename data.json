@@ -354,46 +354,7 @@
       }
     ]
   },
-  {
-    "match_name": "Tekken 3  Noida Tournament",
-    "teams": [
-      {
-        "team_name": "Participants",
-        "team_members": [
-          {
-            "name": "Mohammad Faizan",
-            "title": "Winner"
-          },
-          {
-            "name": "Akash Soni",
-            "title": "Runner up"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "match_name": "Tekken 3  Agra Tournament",
-    "teams": [
-      {
-        "team_name": "Participants",
-        "team_members": [
-          {
-            "name": "Sonu",
-            "title": "Winner"
-          },
-          {
-            "name": "Akash soni",
-            "title": "Runner up"
-          },
-          {
-            "name": "Sanjay chopada",
-            "title": "Amazing performance, Ludhiana best player"
-          }
-        ]
-      }
-    ]
-  },
+
   {
     "match_name": "Tekken 3 Taj Mahal Cup",
     "teams": [
@@ -533,7 +494,7 @@
     ]
   },
   {
-    "match_name": "Tekken 3 Documentary",
+    "match_name": "Tekken 3 Documentary & Chocolate Tourney",
     "match_location": "Ludhiana Punjab India & Chocolate Tourney",
     "teams": [
       {
